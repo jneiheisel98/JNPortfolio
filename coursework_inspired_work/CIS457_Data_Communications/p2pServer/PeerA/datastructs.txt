@@ -1,0 +1,6 @@
+linked lists
+double linked lists
+binary search trees
+heaps
+priority queues
+substrings

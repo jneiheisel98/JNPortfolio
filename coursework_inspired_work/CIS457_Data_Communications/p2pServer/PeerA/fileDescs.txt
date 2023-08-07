@@ -1,0 +1,5 @@
+datastructs.txt; provides data structures and algorithms content;
+datacom.txt; provides data communication content;
+comporg.txt; provides computer organization and assembly language content;
+linkedlistproject.txt; provides more insight on how students did implementing a linked list in java;
+

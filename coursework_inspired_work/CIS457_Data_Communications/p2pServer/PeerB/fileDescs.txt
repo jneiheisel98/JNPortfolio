@@ -1,0 +1,4 @@
+gmcterrain.txt; describes everything about the GMC Terrain: history and all;
+gmcAcadia.txt; details the service history of the GMC Acadia;
+chevyTraverse.txt; details the purchase agreement of the Chevy Traverse;
+chevyEquinox.txt; details the engine specs of the 2016 Chevrolet Equinox;
