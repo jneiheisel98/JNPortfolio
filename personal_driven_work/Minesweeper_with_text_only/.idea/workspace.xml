@@ -159,7 +159,7 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/minesweeper/minesweeperGame.java</url>
-          <line>203</line>
+          <line>202</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>

@@ -1,0 +1,4 @@
+work on lives stopping when reach 0,
+
+get rid of not needed code
+
