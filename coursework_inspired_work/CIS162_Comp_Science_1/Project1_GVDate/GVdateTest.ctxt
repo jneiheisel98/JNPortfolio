@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GVdateTest
+comment0.text=\r\n\ GVdateTest\ -\ tests\ default\ constructor\ and\ a\ set\ month,\ day,\r\n\ and\ year\ constructor.\ Also\ tests\ various\ setter\ and\ getter\ methods.\r\n\ \r\n\r\n\ @author\ Jacob\ Neiheisel\r\n\ @for_class\ CIS\ 162\ -\ Computer\ Science\ I\ -\ Section\ 09\ -\ Professor\ Posada\r\n\ @version\ 1.0.1\ -\ 1\ October\ 2020\ (around\ 45\ mins\ to\ complete\ and\ format\ P1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

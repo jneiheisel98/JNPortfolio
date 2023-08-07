@@ -1,0 +1,46 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.11.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;D:\CIS162Projects\Project_1
+-d
+D:\CIS162Projects\Project_1\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\CIS162Projects\Project_1\GVdate.java
+<---- end of javadoc command ---->
+Loading source file D:\CIS162Projects\Project_1\GVdate.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating D:\CIS162Projects\Project_1\doc\GVdate.html...
+D:\CIS162Projects\Project_1\GVdate.java:42: warning - @param argument "month" is not a parameter name.
+D:\CIS162Projects\Project_1\GVdate.java:43: warning - @param argument "day" is not a parameter name.
+D:\CIS162Projects\Project_1\GVdate.java:44: warning - @param argument "year" is not a parameter name.
+D:\CIS162Projects\Project_1\GVdate.java:188: warning - @param argument "month" is not a parameter name.
+D:\CIS162Projects\Project_1\GVdate.java:206: warning - @param argument "day" is not a parameter name.
+D:\CIS162Projects\Project_1\GVdate.java:222: warning - @param argument "year" is not a parameter name.
+D:\CIS162Projects\Project_1\GVdate.java:238: warning - @param argument "month" is not a parameter name.
+D:\CIS162Projects\Project_1\GVdate.java:239: warning - @param argument "day" is not a parameter name.
+D:\CIS162Projects\Project_1\GVdate.java:240: warning - @param argument "year" is not a parameter name.
+Generating D:\CIS162Projects\Project_1\doc\package-summary.html...
+Generating D:\CIS162Projects\Project_1\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\CIS162Projects\Project_1\doc\allclasses.html...
+Generating D:\CIS162Projects\Project_1\doc\allclasses.html...
+Generating D:\CIS162Projects\Project_1\doc\index.html...
+9 warnings

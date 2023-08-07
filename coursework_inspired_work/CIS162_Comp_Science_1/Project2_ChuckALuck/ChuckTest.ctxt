@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ChuckTest
+comment0.text=\r\n\ This\ is\ mainly\ to\ test\ the\ Chuck\ class\ methods\ and\ procedures\r\n\ so\ that\ the\ tests\ for\ getting\ certain\ numbers\ for\ \r\n\ the\ die\ can\ be\ done\ or\ there\ can\ be\ determinations\r\n\ of\ the\ sums\ of\ the\ die\ for\ various\ chances\ to\ win\r\n\ the\ game\ and\ have\ functionality.\r\n\r\n\ @author\ Jacob\ Neiheisel\r\n\ @forclass\ Computer\ Science\ 1\ -\ CIS\ 162\ Section\ 09,\ Professor\ Posada\r\n\ @version\ 1.0.4\ -\ 03\ November\ 2020\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

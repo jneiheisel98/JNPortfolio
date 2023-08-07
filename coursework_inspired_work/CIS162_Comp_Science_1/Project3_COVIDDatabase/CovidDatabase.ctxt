@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CovidDatabase
+comment1.params=
+comment1.target=CovidDatabase()
+comment1.text=\r\n\ Start\ constructor\ methods\r\n
+comment2.params=filename
+comment2.target=void\ readCovidData(java.lang.String)
+comment2.text=\r\n\ readCovidData()\ -\ reads\ data\ file\r\n\ for\ entries\r\n\r\n\ @param\ \ name\ of\ the\ file\ as\ a\ string\r\n\ \r\n
+comment3.params=
+comment3.target=int\ countRecords()
+comment3.text=\r\n\ countRecords()\ -\ gets\ amount\ of\r\n\ database\ records\r\n\r\n\ \r\n\ @return\ \ \ \ number\ of\ records\ in\ database\r\n\ displayed\ as\ an\ integer\r\n
+comment4.params=
+comment4.target=int\ getTotalDeaths()
+comment4.text=\r\n\ getTotalDeaths()\ -\ gets\ total\r\n\ deaths\ for\ overall\ entries\r\n\r\n\ \r\n\ @return\ \ \ \ number\ of\ deaths\ \r\n\ logged\ in\ database,\ displayed\r\n\ as\ an\ integer\r\n
+comment5.params=
+comment5.target=int\ getTotalInfections()
+comment5.text=\r\n\ getTotalInfections()\ -\ gets\ amount\ of\r\n\ all\ the\ infections\ in\ the\ database\r\n\r\n\ \r\n\ @return\ \ \ \ total\ number\ of\ \r\n\ infections\ in\ database\ \r\n\ displayed\ as\ an\ integer\r\n
+comment6.params=m\ d
+comment6.target=int\ countTotalDeaths(int,\ int)
+comment6.text=\r\n\ counttotalDeaths()\ -\ gets\ amount\ of\r\n\ deaths\ on\ a\ day\r\n\r\n\ @param\ m\ -\ month\ for\ counting\ deaths\r\n\ must\ be\ an\ integer\r\n\ \r\n\ @param\ d\ -\ day\ for\ counting\ deaths\r\n\ must\ be\ an\ integer\r\n\ \r\n\ @return\ \ \ \ number\ of\ deaths\r\n\ on\ a\ given\ day\ displayed\ as\r\n\ an\ integer\r\n
+comment7.params=m\ d
+comment7.target=int\ countTotalInfections(int,\ int)
+comment7.text=\r\n\ countTotalInfections()\ -\ gets\ amount\ of\r\n\ infections\ on\ a\ given\ day\r\n\r\n\ @param\ m\ -\ month\ for\ counting\ infections\r\n\ must\ be\ an\ integer\r\n\ \r\n\ @param\ d\ -\ day\ for\ counting\ infections\r\n\ must\ be\ an\ integer\r\n\ \r\n\ @return\ \ \ \ number\ of\ deaths\r\n\ on\ that\ particular\ day\r\n\ displayed\ as\ an\ integer\r\n
+numComments=8
